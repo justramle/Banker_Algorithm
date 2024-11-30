@@ -1,6 +1,9 @@
 ## Banker Algorithm
 
-This program is to implement the Banker’s Algorithm for deadlock avoidance. A system with five processes P0 through P4 and three resources of type A, B, C
+This program is to implement the Banker’s Algorithm for deadlock avoidance. A system with five processes P0 through P4 and three resources of type A, B, C:
+<div align=center>
+  <image src="1.png" alt="s">
+</div>
 
 ## Reference:  
 
@@ -13,3 +16,7 @@ This program is to implement the Banker’s Algorithm for deadlock avoidance. A 
 
 `./banker inputTest.csv`
 
+## Output Result:
+<div align=center>
+  <image src="2.png" alt="cs">
+</div>
